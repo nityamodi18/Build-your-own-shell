@@ -1,5 +1,4 @@
-# My Advanced C Shell
-
+# Build your own shell
 This is a custom Unix-like command-line shell developed in C. It provides essential shell functionality, including program execution, I/O management, job control, and several custom built-in commands.
 
 ## ✨ Features
